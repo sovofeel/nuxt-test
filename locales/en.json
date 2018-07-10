@@ -1,0 +1,439 @@
+{
+  "translation": {
+    "main": {
+      "tabs": {
+        "menu": "Menu",
+        "promotions": "Promotional events"
+      },
+      "statisticTitle": "Statistics for today",
+      "restauranAddreses": "ADDRESSES OF RESTAURANTS",
+      "minOrderPrice": "Минимальная сумма заказа",
+      "about": "About the restaraunt",
+      "deliveryAndPrice": "Delivery area and prices",
+      "message": "Message",
+      "order": "Order",
+      "additives": "Additional marinade and sauces",
+      "count": "pcs"
+    },
+    "auth": {
+      "enterPhone": "Enter phone number",
+      "enterCode": "Enter verification code",
+      "unSubscribeEmail": "Unsubscrie from mailing",
+      "unSubscribeEmailMessage": "You successfully unsubscribed from mailing",
+      "titleAuth": "Log in",
+      "titleLogin": "Log in",
+      "titleRegistration": "Registration",
+      "social": {
+        "clientName": "Your name ",
+        "clientPhone": "Phone",
+        "clientEmail": "E-mail",
+        "loginVk": "You entered the site using the Facebook account. Please confirm your phone number.",
+        "submitButton": "Send"
+      }
+    },
+    "flatPage": {
+      "delivery": {
+        "costFrom": "from",
+        "costTo": "up to",
+        "free": "free of charge",
+        "orderAmount": "At the sum of the order",
+        "delivery": "delivery",
+        "title": "Условия доставки",
+        "desc": "To find out the terms of delivery, enter your address <br/> into the box below",
+        "example": "for example, Ленина 51",
+        "ok": "ОК",
+        "promoDesc": "Additional",
+        "promoDesc2": "50 bonus points <br/> on the account with self-delivery!",
+        "address": "Self-delivery address ул. Кувыкина, 27"
+      },
+      "review": {
+        "positive": "Положительный",
+        "neutral": "Нейтральный",
+        "negative": "Отрицательный",
+        "ideas": "Offer <br/> idea",
+        "kitchen": "Quality of kitchen",
+        "decor": "Ordering",
+        "speed": "Delivery time",
+        "orderIdNumber": "Order number shall be added (figures only)",
+        "requiredField": "Mandatory field",
+        "badPhoneNumber": "Incorrect phone number",
+        "idea": "If you want to offer the idea, write here!",
+        "reviewEntered": "You already left the comment and we surely will listen to it!",
+        "reviewSended": "Thank`s for leaving feedback!",
+        "reviewTitle": "Leave feedback",
+        "reviewDesc": "Your opinion is priceless for us, regardless of whether it is positive or negative. Each coomment comes directly to the heads of restarant Farfor ",
+        "attachFile": "Attach files",
+        "reviewRulesDesc": "By pushing a button \"Send\" you agree to processing of of your",
+        "reviewRulesDesc2": "of the personal details",
+        "reviewSend": "Send",
+        "vote": "Vote"
+      },
+      "rules": {
+        "title": "Sale regulations"
+      },
+      "geo": {
+        "title": "Choosing of a city",
+        "chooseTitle": "Your city is defined as",
+        "notYouCity": "Not your town?",
+        "desc": "Click on the button with the compass to automatically determine the location.",
+        "reset": "Auto negotiation",
+        "manualTitle": "Select city manually",
+        "manualDesc": "Start typing the first letters of the name of your city or select a city from the list below.",
+        "chooseYouCity": "Enter the city"
+      },
+      "privacy": {
+        "title": "Privacy policy"
+      },
+      "term": {
+        "title": "User agreement"
+      }
+    },
+    "menu": {
+      "category": {
+        "showFilter": "Show filters",
+        "hideFilter": "Hide filters"
+      },
+      "contact": {
+        "workDesc": "We work",
+        "workDesc2": "from",
+        "workDesc3": "to"
+      }
+    },
+    "news": {
+      "title": "News",
+      "nullNews": "Нет доступных новостей"
+    },
+    "user": {
+      "lkTitle": "Personal account",
+      "adressesTitle": "Delivery Addresses",
+      "settingsTitle": "Settings",
+      "settings": {
+        "messages": {
+          "passwordNotMatch": "Passwords do not match",
+          "inputPassword": "All margins must be filled in",
+          "passwordMore": "The password must be at least 6 characters in length.",
+          "successChangePassword": "Your pasword has been changed successfully",
+          "error": "Error",
+          "serverError": "Произошла ошибка на сервере",
+          "invalidOldPassword": "Incorrect old password",
+          "alreadyExists": "A user with this number already exists",
+          "incorrectCode": "Incorrect code"
+        },
+        "dateOfBirthdayTitle": "Birthday",
+        "acceptSms": "Receive mass texting",
+        "acceptEmail": "Принимать email-рассылки",
+        "saveChanges": "SAVE CHANGES",
+        "labelChangePassword": "Password reset",
+        "labelOldPassword": "Old password",
+        "labelNewPassword": "New password",
+        "labelRepeatPassword": "Repeat",
+        "savePassword": "SAVE PASSWORD",
+        "yes": "Yes",
+        "no": "No",
+        "social": {
+          "title": "Social networks",
+          "snap": "Fix",
+          "vk": "Vkontakte",
+          "fb": "Facebook",
+          "ok": "Classmates"
+        },
+        "confirmationCodeTitle": "Confirmation code",
+        "confirmationCodeOk": "ok",
+        "confirmationCodeResend": "Send repeatedly",
+        "confirmationRequestCall": "Order a phone call",
+        "bonusCount": "Total bonus points on the account",
+        "orderCount": "Orders made"
+      },
+      "orders": {
+        "title": "My orders",
+        "titleOne": "ORDER",
+        "status": "Status",
+        "amount": "Amount",
+        "persons": "Quantity of persons",
+        "payment": "Payment method",
+        "address": "Delivery address",
+        "bonus": "Bonus points",
+        "chraged": "Accrued",
+        "wasted": "WAS SPEND",
+        "repeatOrder": "Repeat the order",
+        "ot": "from"
+      }
+    },
+    "basket": {
+      "messages": {
+        "chooseGift": "Вы должны выбрать один из подарков",
+        "choosePersons": "Please indicate the number of persons",
+        "chooseAddress": "Before placing an Order you have to select the address",
+        "chooseDeliveryTime": "Choose the correct delivery time before placing of the Order",
+        "restaurantClose": "Currently the delivery restaraunt Farfor is closed, but you can make a pre-order.",
+        "chooseAddressBeforeTime": "Before specifying the delivery time, specify your address.",
+        "restaurantDayClose": "The selected day is unacceptable. Please choose other day."
+      },
+      "auth": {
+        "contact": "Contact information"
+      },
+      "title": "SHOPPING CART",
+      "titlePay": "PAYMENT",
+      "titleComment": "Comment to the order",
+      "titleAddressAndDetail": "ADDRESS AND ORDER DETAILS",
+      "buttonClear": "clear",
+      "additional": {
+        "title": "Additional marinade and sauces",
+        "free": "Free of charge"
+      },
+      "gift": {
+        "title": "Promotional events and presents",
+        "titleChoose": "Choose the gift:",
+        "desc": "You will receive these gifts ",
+        "desc2": "altogether with Order"
+      },
+      "persons": {
+        "messages": {
+          "maxPersons": "The maximum allowed number of persons for your order: ",
+          "choosePersons": "Specify the number of persons"
+        },
+        "title": "Quantity of persons",
+        "desc": "Based on the number of participants in your repast, we`ll complete the your Order with accesories free of charge"
+      },
+      "specialOffers": {
+        "maxCount": "You have collected max possible quantity of the positions for this special offer",
+        "title": "ONLY FOR YOU AND ONLY NOW!",
+        "yes": "Want!",
+        "no": "No, thank you",
+        "text": "Offer <br/> is still valid:",
+        "max": "Maximum quantity:"
+      },
+      "delivery": {
+        "free": "Free of charge",
+        "titlePrice": "Delivery cost",
+        "titleTime": "Delivery time",
+        "minute": "minutes",
+        "unAuth": "Calculated for unauthorized user",
+        "desc": "Delivery by carrier is performed at cost of the Order from",
+        "desc2": "In the free amount needed for free of charge delivery DO NOT include drinks and sauces - only main dishes",
+        "typePickup": "Self-delivery",
+        "timePikup": "Time of self-delivery",
+        "addressPickupTitle": "Self-delivery address",
+        "typeTitle": "ORDER TYPE",
+        "typeDelivery": "Delivery",
+        "timeDelivery": "Delivery time",
+        "orderNow": "As soon as possible",
+        "orderToTime": "Date and hour",
+        "performance": {
+          "messages": {
+            "largeOrdersThisTime": "The Order for the time you chose cannot be fullfilled because of the large number of orders. Please select an other time.",
+            "selectedIntervalTime": "We`ll deliver your order within selected time period. The exact time of delivery you will be informed in advance.",
+            "selectedTime": "We`ll deliver your order at the time of your choice.",
+            "titleIsExceeded": "Choose other delivery time",
+            "titleNotExceeded": "Excellent"
+          }
+        },
+        "complete": {
+          "errorTitle": "Error while placing order №",
+          "title": "The Order is fixed",
+          "emailDesc": "By the way, you did not specify your e-mail and we can not send to you the status of your order, gifts and promotions. Indicate it in",
+          "emailDesc2": "in personal account",
+          "messages": {
+            "orderIdNumber": "Order number shall be added (figures only)",
+            "requiredField": "Mandatory field",
+            "badPhoneNumber": "Incorrect phone number",
+            "idea": "If you want to offer the idea, write here!",
+            "reviewEntered": "You already left the comment and we surely will listen to it!",
+            "reviewSended": "Thank`s for leaving feedback!",
+            "reviewTitle": "Leave feedback",
+            "reviewDesc": "Your opinion is priceless for us, regardless of whether it is positive or negative. Each coomment comes directly to the heads of restarant Farfor ",
+            "attachFile": "Attach files",
+            "reviewRulesDesc": "By pushing a button \"Send\" you agree to processing of of your",
+            "reviewRulesDesc2": "of the personal details",
+            "reviewSend": "Send"
+          },
+          "reviewData": {
+            "positive": "Положительный",
+            "neutral": "Нейтральный",
+            "negative": "Отрицательный",
+            "idea": "Offer <br/> idea",
+            "kitchen": "Quality of kitchen",
+            "decor": "Ordering",
+            "speed": "Delivery time"
+          },
+          "status": {
+            "title": "Tracking a new order №",
+            "notCallTitle": "Our apologies!",
+            "notCallDesc": "If you do not get a call, please phone by number",
+            "receiveTitle": "Did you receive your Order?",
+            "receiveYes": "Yes",
+            "receiveNo": "No",
+            "thankYouDesc": "Thank you for choosing the Farfor delivery sevice! Please, leave",
+            "thankYouDesc2": "feedback about the work of our restaraunt",
+            "thankYouDesc3": "Thank you!",
+            "sorryDesc": "Very sorry! Please leave",
+            "sorryDesc2": "This will allow us to improve the quality of services. Thank you!",
+            "labelWaitCall": "Ожидайте звонка",
+            "labelTimeCall": "Time of the Order",
+            "labelOrderCanceled": "The Order is canceled",
+            "labelWaitOrder": "Wait for the order",
+            "failPayment": {
+              "phone": "Phone:",
+              "title": "Payment via Yandex.Kassa",
+              "desc": "Payment failed.",
+              "desc2": "Please contact support or try again place the order by selecting another payment method.",
+              "orderId": "Number of your order"
+            }
+          }
+        },
+        "bonus": {
+          "title": "BONUS POINTS",
+          "bonuses_0": "point",
+          "bonuses_1": "points",
+          "bonuses_2": "points",
+          "spendTitle": "SPEND",
+          "оk": "ok",
+          "accruedTitle": "BONUS POINTS ACCRUED",
+          "paymentTitle": "PAYMENT BY BONUSES",
+          "applyPromoCode": "APPLY",
+          "undoPromoCode": "CANCEL",
+          "messages": {
+            "noBonusFirst": "Unfortunately, you do not have any bonuses yet. They will be charged for this Order and you will be able to use them from the next order",
+            "noBonus": "Unfortunately, you do not have any bonuses yet",
+            "allSpend": "All bonus points are spent",
+            "withdraw": "Bonus points to be charged off:",
+            "withdrawMax": "Можно списать",
+            "withdrawMax2": "of bonus points",
+            "desc": "You can pay for bonuses up to 50% of the order",
+            "noFind": "Promo code was not found",
+            "enterPromoCode": "Enter the promotional code"
+          }
+        },
+        "final": {
+          "title": "TOTALS",
+          "orderPrice": "Order amount",
+          "creditedBonus": "You will get the points",
+          "orderPayment": "Total payable",
+          "orderSurrender": "Need to change from",
+          "rulesDesc": "I have read and agreed with ",
+          "rulesDesc2": "terms of the order",
+          "orderChekout": "Make an order",
+          "noSurrender": "It is not necessary"
+        },
+        "payment": {
+          "cash": "By cash",
+          "card": "By card during receiving",
+          "sberbank": "Online",
+          "yakassa": "Online",
+          "online": "By card online"
+        }
+      },
+      "gramm": "g.",
+      "liter": "l."
+    },
+    "components": {
+      "address": {
+        "street": "Street",
+        "house": "House",
+        "porch": "Entrance",
+        "intercom": "Doorphone",
+        "floor": "Floor",
+        "apt": "Apartment",
+        "done": "Save",
+        "cancel": "Cancellation",
+        "addNew": "Add the address"
+      },
+      "auth": {
+        "socialAuth": "Or log in with social networking service",
+        "next": "Hereafter",
+        "confirmCode": {
+          "tooltip": {
+            "noSmsResend": "Не пришла СМС? Отправить снова.",
+            "noCallResend": "Не позвонил автоответчик? Позвонить снова.",
+            "noSmsRequestCall": "Не пришла СМС? Позвонить.",
+            "noCallRequestSms": "Не позвонил автоответчик? Отправить СМС."
+          },
+          "messages": {
+            "connectionError": "Connection is absent",
+            "comeSmsCode": "You'll receive SMS with confirmation code",
+            "callMachineCode": "The answering machine will call and notify the code",
+            "noSmsRequestCall": "If sms is absent, request phone call with code",
+            "noCallRequestSms": "If phone call is absent, request sms with code"
+          },
+          "requestNewSms": "Request a new sms",
+          "requestNewCall": "Request a new phone call",
+          "requestCall": "Receive a call",
+          "requestSms": "Receive an SMS",
+          "text": "We are glad to see you on our website. You already have a personal account, because you made orders earlier. There is only a simple step to obtain a password, confirm your phone for this.",
+          "userSelectedPhone": "You specified the number:",
+          "ok": "OK"
+        },
+        "login": {
+          "phone": "Phone",
+          "forgot": "Recall",
+          "labelPassword": "Password",
+          "signIn": "To come in",
+          "email": "E-mail"
+        },
+        "changePassword": {
+          "notMatch": "Passwords do not match",
+          "success": "Your pasword has been changed successfully",
+          "labelNewPassword": "New password",
+          "labelConfirmPassword": "Повторить пароль",
+          "next": "Hereafter"
+        },
+        "signUp": {
+          "name": "Your name ",
+          "passwordCreate": "Create a password",
+          "termDesc": "By pushing a button \"Send\" you agree to processing of of your",
+          "termDesc2": "of the personal details",
+          "send": "Send"
+        }
+      },
+      "geo": {
+        "choiceCity": "Your city is defined as",
+        "choiceTrue": "CORRECTLY",
+        "choiceChange": "CHANGE"
+      },
+      "product": {
+        "toCart": "Want!",
+        "toCartHalf": "Want 1/2!"
+      },
+      "footer": {
+        "fullVersion": "Полная версия сайта",
+        "sellRules": "Sale regulations",
+        "privacyPolicy": "Privacy policy",
+        "termOfUse": "User agreement",
+        "privacyPolicyBanner": "Dear User! For the functioning of the site of LLC Restaurant Farfor, the client metadata is collected (cookie, IP address and location data). If you do not want your metadata to be processed, then you need to leave the site.",
+        "privacyPolicyBannerMore": "In more detail",
+        "hide": "Conceal",
+        "more": "Больше информации",
+        "ogrnip": "MRSN of the sole proprietor",
+        "ogrn": "Регистрационный код",
+        "comapanyAddress": "Legal address:"
+      },
+      "header": {
+        "goHome": "Go to main page"
+      },
+      "proposition": {
+        "free": "Free of charge",
+        "only": "Всего за",
+        "toCart": "Want!",
+        "no": "No, thank you"
+      },
+      "leftMenu": {
+        "menu": "Menu",
+        "signIn": "Log in",
+        "lk": "Personal account",
+        "myOrders": "My orders",
+        "bonus": "Bonus points",
+        "review": "Leave feedback",
+        "news": "News",
+        "logout": "Exit",
+        "chooseLng": "Language"
+      }
+    },
+    "errors": {
+      "requiredField": "Mandatory field",
+      "confirmCode": "Код короче 4 символов",
+      "incorrectCode": "Incorrect code",
+      "notFound": "The page is not found",
+      "goMain": "Go to main page"
+    }
+  }
+}

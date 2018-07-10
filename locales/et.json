@@ -1,0 +1,438 @@
+{
+  "translation": {
+    "main": {
+      "tabs": {
+        "menu": "Menüü",
+        "promotions": "PAKKUMISED"
+      },
+      "statisticTitle": "Tänane statistika",
+      "restauranAddreses": "Restoraani adress",
+      "minOrderPrice": "Minimaalne tellimuse summa",
+      "about": "Restoranist",
+      "deliveryAndPrice": "kohaletoomine tsoon ja hinnad",
+      "message": "Sõnum",
+      "order": "Tellimus",
+      "additives": "Täiendavad maitseained ja kastmed",
+      "count": "tk"
+    },
+    "auth": {
+      "enterPhone": "Jätke Tel.Number.",
+      "enterCode": "Sisestama kinnituskood.",
+      "unSubscribeEmail": "Email-laialisaatmiselt loobumine",
+      "unSubscribeEmailMessage": "Te olete edukalt email-laialisaatmiselt loobunud.",
+      "titleAuth": "Sissepääs saidile",
+      "titleLogin": "Sissepääs",
+      "titleRegistration": "Registreerimine",
+      "social": {
+        "clientName": "Teie nimi",
+        "clientPhone": "Telefon",
+        "clientEmail": "E-Post",
+        "loginVk": "Te sisenesite meie kodulehele Facebooki konto kaudu. Palun kinnitage oma telefoninumber.",
+        "submitButton": "Saatma"
+      }
+    },
+    "flatPage": {
+      "delivery": {
+        "costFrom": "alates",
+        "costTo": "kuni",
+        "free": "tasuta",
+        "orderAmount": "Kui tellimuse summa",
+        "delivery": "kohaletoimetamine",
+        "title": "Tarnetingimused",
+        "desc": "Kohaletoimetamise tingimustega tutvumiseks sisestage allolevale väljale oma aadress",
+        "example": "Näiteks, Pikk 39",
+        "ok": "ОК",
+        "promoDesc": "Täiendavad",
+        "promoDesc2": "50 punkti boonust, kui tuled ise tellimuse järgi, mille saab kätte aadressil",
+        "address": "Take away aadress:"
+      },
+      "review": {
+        "positive": "Positiivne",
+        "neutral": "neutraalne",
+        "negative": "negatiivne",
+        "ideas": "Pakkumine</br>idee",
+        "kitchen": "Köök kvaliteet",
+        "decor": "Tellimuse vormistamine",
+        "speed": "Kohaletoimetamise kiirus",
+        "orderIdNumber": "Kirjutage tellimuse № (ainult numbrid)",
+        "requiredField": "Kohustuslik väli",
+        "badPhoneNumber": "Tel.number kirjutatud valesti",
+        "idea": "Kui soovite pakkuda ideet, kirjutage siia!",
+        "reviewEntered": "Te olete juba tagasiside jätnud ja me tingimata võtame seda arvesse!",
+        "reviewSended": "Täname, et jätsite tagasiside.",
+        "reviewTitle": "Jätke tagasiside.",
+        "reviewDesc": "Teie arvamus on meile hindamatu, sõltumata sellest, kas see on positiivne või negatiivne. Iga otsa saab otse Farfor restorani juhtimisele.",
+        "attachFile": "Lisama faile.",
+        "reviewRulesDesc": "Vajutades nupule \"Saatma\", annate Te nõusoleku töötlemiseks",
+        "reviewRulesDesc2": "isikuandmete",
+        "reviewSend": "Saatma",
+        "vote": "Hääletage"
+      },
+      "rules": {
+        "title": "Müügireeglid"
+      },
+      "geo": {
+        "title": "LINNA VALIK",
+        "chooseTitle": "TEIE LINN ON TUVASTATUD KUI",
+        "notYouCity": "Ei ole teie linn?",
+        "desc": "Vajutage kompassi nupule asukoha automaatseks kindlaks tegemiseks.",
+        "reset": "AUTOMAATNE KINDLAKSTEGEMINE",
+        "manualTitle": "Valida linn käsitsi",
+        "manualDesc": "Alustage sisestama teie linna nimetuse esimesed tähed või valige linn allolevast loendist.",
+        "chooseYouCity": "Sisestage linn"
+      },
+      "privacy": {
+        "title": "Konfidentsiaalsuse poliitika"
+      },
+      "term": {
+        "title": "Kasutajakokkulepe"
+      }
+    },
+    "menu": {
+      "category": {
+        "showFilter": "NÄITAMA FILTREID",
+        "hideFilter": "Varja filtrid"
+      },
+      "contact": {
+        "workDesc": "",
+        "workDesc2": "",
+        "workDesc3": " - "
+      }
+    },
+    "news": {
+      "title": "Uudised",
+      "nullNews": "Uudiseid ei ole"
+    },
+    "user": {
+      "lkTitle": "Isiklik kabinet",
+      "adressesTitle": "KOHALETOIMETAMISE AADRESSID",
+      "settingsTitle": "Häälestused",
+      "settings": {
+        "messages": {
+          "passwordNotMatch": "Paroolid ei lange kokku.",
+          "inputPassword": "Kõik väljad peavad olema täidetud",
+          "passwordMore": "Parool peab sisaldama vähemalt 6 sümbolit.",
+          "successChangePassword": "Teie parool on muutunud.",
+          "error": "Viga",
+          "serverError": "Toimus viga",
+          "invalidOldPassword": "kehtetu vana parool",
+          "alreadyExists": "Kasutaja sama numbriga, on juba tehtud",
+          "incorrectCode": "Vale kood"
+        },
+        "dateOfBirthdayTitle": "Sünnipäev",
+        "acceptSms": "Võtma vastu SMS-laialisaatmisi.",
+        "acceptEmail": "Saama Email laialisaatmisi.",
+        "saveChanges": "SALVESTAMA MUUDATUSI",
+        "labelChangePassword": "Parooli vahetamine",
+        "labelOldPassword": "Vana parool",
+        "labelNewPassword": "Uus parool",
+        "labelRepeatPassword": "Kordama",
+        "savePassword": "SALVESTADA PAROOLI",
+        "yes": "Jah",
+        "no": "Ei",
+        "social": {
+          "title": "Sotsiaalne võrgustik",
+          "snap": "Kinni siduma",
+          "vk": "Vkonkakte",
+          "fb": "Facebook",
+          "ok": "Odnoklassniki"
+        },
+        "confirmationCodeTitle": "Kinnituse kood",
+        "confirmationCodeOk": "ок",
+        "confirmationCodeResend": "Saada uuesti",
+        "confirmationRequestCall": "Tellima kõne",
+        "bonusCount": "BOONUSEID KONTOL",
+        "orderCount": "TEHTUD TELLIMUSI"
+      },
+      "orders": {
+        "title": "Minu tellimused",
+        "titleOne": "TELLIMUS",
+        "status": "Staatus",
+        "amount": "Summa",
+        "persons": "Persoonide arv",
+        "payment": "Tasumise viis",
+        "address": "Kattetoimetamise aadress",
+        "bonus": "Boonused",
+        "chraged": "Arvestatud",
+        "wasted": "WASTED!",
+        "repeatOrder": "Kordama tellimust",
+        "ot": "alates"
+      }
+    },
+    "basket": {
+      "messages": {
+        "chooseGift": "Palun valige kingitusi",
+        "choosePersons": "Palun nimetage isikute arv.",
+        "chooseAddress": "Enne tellimuse vormistamist peate valima aadressi",
+        "chooseDeliveryTime": "Enne tellimuse vormistamist valige korrektne kohaletoimetamise aeg",
+        "restaurantClose": "Praegusel hetkel kohaletoimetamise Farfor restoran on suletud, kuid te saate vormistada eeltellimuse.",
+        "chooseAddressBeforeTime": "Enne kohaletoimetamise aja märkimist märkige oma aadress.",
+        "restaurantDayClose": "Valitud päev on kättesaamatu. Palun valige teist päeva."
+      },
+      "auth": {
+        "contact": "Kontaktinformatsioon"
+      },
+      "title": "KORV",
+      "titlePay": "TASUMINE",
+      "titleComment": "Kommentaar tellimuse juurde",
+      "titleAddressAndDetail": "Adress ja tellimuse kommentaarid",
+      "buttonClear": "Tühistama",
+      "additional": {
+        "title": "Täiendavad maitseained ja kastmed",
+        "free": "Tasuta"
+      },
+      "gift": {
+        "title": "PAKKUMISED ja kingitused",
+        "titleChoose": "Valige kingituseks:",
+        "desc": "Te saate sellised kingitused",
+        "desc2": "Koos tellimusega"
+      },
+      "persons": {
+        "messages": {
+          "maxPersons": "Maksimaalselt lubatud isikute arv Teie tellimuse jaoks:",
+          "choosePersons": "Märkige inimeste arv"
+        },
+        "title": "Mitu komplekti soovite",
+        "desc": "Lähtudes Teie söömaaja osalejate arvust, komplekteerime me tasuta Teie tellimust täiendavate aksessuaaridega."
+      },
+      "specialOffers": {
+        "maxCount": "Te olete kogunud maksimaalselt võimalik positsioonide arv selle eripakkumise järgi",
+        "title": "Ainult Teie jaoks ja ainult praegu!",
+        "yes": "Tahan!",
+        "no": "Ei, tänan!",
+        "text": "Pakkumine <br/> kehtib veel kuni:",
+        "max": "Maksimaalne kogus:"
+      },
+      "delivery": {
+        "free": "Tasuta",
+        "titlePrice": "Kattetoimetamise kiirus",
+        "titleTime": "Kohaletoimetamise aeg",
+        "minute": "minutit",
+        "unAuth": "Mõeldud autoriseerimata kasutajale",
+        "desc": "Kulleriga kohaletoimetamine toimub tellimuse maksumusel alates",
+        "desc2": "Minimaalne summa, mis on tasuta kohaletoimetamiseks vajalik, EI sisaldama jooke ja katsimeid - ainult põhiroogasid.",
+        "typePickup": "omavedu",
+        "timePikup": "Takeaway aeg",
+        "addressPickupTitle": "Omaveo aadress",
+        "typeTitle": "TELLIMUSE TÜÜP",
+        "typeDelivery": "Kohaletoimetamine",
+        "timeDelivery": "Kohaletoimetamise aeg",
+        "orderNow": "VÕIMALIKULT KIIRESTI",
+        "orderToTime": "KUUPÄEV JA AEG",
+        "performance": {
+          "messages": {
+            "largeOrdersThisTime": "Suure tellimuste hulga tõttu ei saa me tellimust täita Teie valitud ajal. Palun valige teine aeg.",
+            "selectedIntervalTime": "Toimetame Teie tellimuse kohale Teie valitud ajavahemikul. Kohaletoimetamise täpsest ajast teatame Teile eelnevalt ette.",
+            "selectedTime": "Toimetame Teie tellimuse kohale Teie valitud ajal.",
+            "titleIsExceeded": "Valige teine tellimuse aeg",
+            "titleNotExceeded": "suurepärane"
+          }
+        },
+        "complete": {
+          "errorTitle": "Viga tellimuse vormistamise nr",
+          "title": "Tellimus on vormistatud",
+          "emailDesc": "Muide, Te olete jätnud märkimata oma e-posti aadressi ja me ei saa Teile saata Teie tellimuse staatust, kingitusi ja kampaaniainfot. Märkige see siia",
+          "emailDesc2": "isiklik kabinet",
+          "messages": {
+            "orderIdNumber": "Kirjutage tellimuse № (ainult numbrid)",
+            "requiredField": "Kohustuslik väli",
+            "badPhoneNumber": "Tel.number kirjutatud valesti",
+            "idea": "Kui soovite pakkuda ideet, kirjutage siia!",
+            "reviewEntered": "Te olete juba tagasiside jätnud ja me tingimata võtame seda arvesse!",
+            "reviewSended": "Täname, et jätsite tagasiside.",
+            "reviewTitle": "Jätke tagasiside.",
+            "reviewDesc": "Teie arvamus on meie jaoks väga oluline hoolimata sellest, kas see on positiivne või negatiivne. Iga kommentaar jõuab otse restorani Farfor juhtkonnani.",
+            "attachFile": "Lisama faile.",
+            "reviewRulesDesc": "Vajutades nupule \"Saatma\", annate Te nõusoleku töötlemiseks",
+            "reviewRulesDesc2": "isikuandmete",
+            "reviewSend": "Saatma"
+          },
+          "reviewData": {
+            "positive": "Positiivne",
+            "neutral": "neutraalne",
+            "negative": "negatiivne",
+            "idea": "Pakkumine </br> idee",
+            "kitchen": "Köök kvaliteet",
+            "decor": "Tellimuse vormistamine",
+            "speed": "Kohaletoimetamise kiirus"
+          },
+          "status": {
+            "title": "Tellimuse jälgimine #",
+            "notCallTitle": "Vabandame!",
+            "notCallDesc": "Kui teile ei ole helistata, palun helistage numbrile",
+            "receiveTitle": "Kas on Teile tellimus toimetatud kätte?",
+            "receiveYes": "Jah",
+            "receiveNo": "Ei",
+            "thankYouDesc": "Tänama Farfor kohaletoimetamise talituse valiku eest! Jätke palun",
+            "thankYouDesc2": "Tagasiside meie restorani töö kohta.",
+            "thankYouDesc3": "Aitäh!",
+            "sorryDesc": "Väga kahetseme! Jätke palun",
+            "sorryDesc2": "See võimaldab meil tõsta teenuste kvaliteeti. Aitäh!",
+            "labelWaitCall": "Oodake kõnet.",
+            "labelTimeCall": "Tellimuse aeg",
+            "labelOrderCanceled": "Tellimus on tühistatud",
+            "labelWaitOrder": "Oodake tellimust.",
+            "failPayment": {
+              "phone": "Telefon:",
+              "title": "Tasumine Jandeks.Kassa kaudu",
+              "desc": "Tasumine ebaõnnestus.",
+              "desc2": "Pöörduge palun klienditoe poole või valige teine makseviis ja proovige tellimust korrata.",
+              "orderId": "Teie tellimuse number"
+            }
+          }
+        },
+        "bonus": {
+          "title": "BOONUSED",
+          "bonuses": "punkt",
+          "bonuses_plural": "punkti",
+          "spendTitle": "KULUTAMA",
+          "ok": "ок",
+          "accruedTitle": "Arvestatud boonuseid",
+          "paymentTitle": "TASUMINE BOONUSTEGA",
+          "applyPromoCode": "RAKENDAMA",
+          "undoPromoCode": "TÜHISTADA",
+          "messages": {
+            "noBonusFirst": "Kahjuks ei ole Teil enam boonuseid. Neid juurde arvutatakse selle tellimuse eest ja Te võite kasutada neid järgmisel tellimusel.",
+            "noBonus": "Kahjuks ei ole Teil boonuseid",
+            "allSpend": "Boonused on kulutatud",
+            "withdraw": "Arvestame maha boonuse:",
+            "withdrawMax": "On võimalik maha kandma",
+            "withdrawMax2": "boonuseid",
+            "desc": "Te saate maksta boonustega kuni 50% tellimuse summast",
+            "noFind": "Promokood ei ole leitud",
+            "enterPromoCode": "Sisestage promokood"
+          }
+        },
+        "final": {
+          "title": "Lõppandmed",
+          "orderPrice": "tellimuse summa",
+          "creditedBonus": "Te saate punkte",
+          "orderPayment": "Kokku tasumiseks",
+          "orderSurrender": "On vaja raha tagasiandmine",
+          "rulesDesc": "Mina olen lugenud läbi ja nõustun ",
+          "rulesDesc2": "tellimuse tingimustega",
+          "orderChekout": "Vormistama tellimus",
+          "noSurrender": "Ei ole vaja"
+        },
+        "payment": {
+          "cash": "Sularahas kullerile",
+          "card": "Tasumine kaardiga saamisel",
+          "sberbank": "Онлайн",
+          "yakassa": "Онлайн",
+          "online": "Картой онлайн"
+        }
+      },
+      "gramm": "g",
+      "liter": "l"
+    },
+    "components": {
+      "address": {
+        "street": "Tänav",
+        "house": "Maja",
+        "porch": "trepikoda",
+        "intercom": "Fonolukk",
+        "floor": "Korrus",
+        "apt": "Korter",
+        "done": "Salvesta",
+        "cancel": "Tühistamine",
+        "addNew": "Lisama aadress"
+      },
+      "auth": {
+        "socialAuth": "Või siseneda sotsvõrgustiku kaudu.",
+        "next": "EDASI",
+        "confirmCode": {
+          "tooltip": {
+            "noSmsResend": "Ei saanud sms'i? Saada uuesi.",
+            "noCallResend": "Ei saanud tagasisidet? Helista uuesti.",
+            "noSmsRequestCall": "Ei saanud sms'i? Helista.",
+            "noCallRequestSms": "Ei saanud tagasisidet? Saada sms."
+          },
+          "messages": {
+            "connectionError": "Ühendus puudub",
+            "comeSmsCode": "Tuleb SMS kinnituskoodiga.",
+            "callMachineCode": "Helistab automaatvastaja ja dikteerib koodi.",
+            "noSmsRequestCall": "Kui ei ole SMS, siis küsige kõne koodiga.",
+            "noCallRequestSms": "Kui ei ole kõnet, siis küsige SMS koodiga."
+          },
+          "requestNewSms": "Saada uus SMS",
+          "requestNewCall": "Korda kõne",
+          "requestCall": "Saada kõne",
+          "requestSms": "Saada SMS",
+          "text": "Meil on hea meel näha Teid oma kodulehel. Kuna olete varem tellimusi vormistanud, on Teil juba isiklik kabinett olemas. On jäänud ainult lihtne samm parooli saamiseks. Selleks kinnitage oma telefoninumber.",
+          "userSelectedPhone": "Te märkisite numbri:",
+          "ok": "OK"
+        },
+        "login": {
+          "phone": "Telefon",
+          "forgot": "Meenutama",
+          "labelPassword": "Parool",
+          "signIn": "Logi sisse",
+          "email": "E-Post"
+        },
+        "changePassword": {
+          "notMatch": "Paroolid ei lange kokku.",
+          "success": "Teie parool on muutunud.",
+          "labelNewPassword": "Uus parool",
+          "labelConfirmPassword": "Parooli uuesti sisestamine",
+          "next": "Edasi"
+        },
+        "signUp": {
+          "name": "Teie nimi",
+          "passwordCreate": "Loo parool",
+          "termDesc": "Vajutades nupule \"Saatma\", annate Te nõusoleku töötlemiseks",
+          "termDesc2": "isikuandmete",
+          "send": "Saatma"
+        }
+      },
+      "geo": {
+        "choiceCity": "TEIE LINN ON TUVASTATUD KUI",
+        "choiceTrue": "Õigesti",
+        "choiceChange": "MUUTA"
+      },
+      "product": {
+        "toCart": "TAHAN!",
+        "toCartHalf": "Tahan 1/2!"
+      },
+      "footer": {
+        "fullVersion": "Veebisaidi täisversioon",
+        "sellRules": "Müügireeglid",
+        "privacyPolicy": "Konfidentsiaalsuse poliitika",
+        "termOfUse": "Kasutajakokkulepe",
+        "privacyPolicyBanner": "Lugupeetud Kasutaja! OÜ Restoran Farfor saidi toimimiseks toimub klientide metaandmete kogumine (cookie, IP adressite ja asukoha andmed). Kui te e soovi, et Teie metaandmeid töödelatakse, siis tuleb Teil saidilt lahkuma.",
+        "privacyPolicyBannerMore": "Lisateave",
+        "hide": "Peida",
+        "more": "Lisateave",
+        "ogrnip": "ОГРНИП",
+        "ogrn": "Äriregistrikood",
+        "comapanyAddress": "Juhatuse aadress:"
+      },
+      "header": {
+        "goHome": "Mine avalehele"
+      },
+      "proposition": {
+        "free": "Tasuta",
+        "only": "Kokku on",
+        "toCart": "TAHAN!",
+        "no": "Ei, tänan!"
+      },
+      "leftMenu": {
+        "menu": "Menüü",
+        "signIn": "Sissepääs",
+        "lk": "Isiklik kabinet",
+        "myOrders": "Minu tellimused",
+        "bonus": "Boonused",
+        "review": "Jätma tagasisidet",
+        "news": "Uudised",
+        "logout": "Välju",
+        "chooseLng": "Language"
+      }
+    },
+    "errors": {
+      "requiredField": "Kohustuslik väli",
+      "confirmCode": "Kood on lühem kui 4 tähemärki",
+      "incorrectCode": "Vale kood",
+        "notFound": "Legekülg on leidmata",
+        "goMain": "Minna üle peamisele leheküljele"
+    }
+  }
+}

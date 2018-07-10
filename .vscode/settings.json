@@ -1,0 +1,16 @@
+{
+  "editor.tabSize": 2,
+  "prettier.tabWidth": 2,
+  "html.format.wrapLineLength": 80,
+  "editor.minimap.maxColumn": 80,
+  "editor.wordWrapColumn": 80,
+  "prettier.semi": false,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "vetur.format.defaultFormatter.html": "none",
+  "vetur.format.defaultFormatter.scss": "prettier",
+  "vetur.format.defaultFormatter.js": "prettier",
+  "vetur.format.defaultFormatter.stylus": "stylus-supremacy",
+  "prettier.eslintIntegration": true,
+  "prettier.stylelintIntegration": true
+}

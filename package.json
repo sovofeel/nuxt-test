@@ -1,0 +1,55 @@
+{
+  "name": "nuxt-farfor",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "sovofeel <sovofeel@gmail.com>",
+  "private": true,
+  "eslintConfig": {
+    "root": true,
+    "extends": [
+      "plugin:vue/essential",
+      "plugin:prettier/recommended",
+      "eslint:recommended"
+    ]
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint",
+    "test": "nightwatch --env local",
+    "ie": "nightwatch -e ie11",
+    "sauce": "nightwatch -e chrome,ie11,android_s4_emulator,iphone_6_simulator",
+    "upload": "node test/e2e/upload_screenshots_to_s3.js"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.1",
+    "aws-sdk": "^2.271.1",
+    "chromedriver": "^2.40.0",
+    "env2": "^2.2.2",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-prettier": "^2.6.2",
+    "lodash": "^4.17.10",
+    "mime-types": "^2.1.18",
+    "nightwatch": "^0.9.21",
+    "node-sass": "^4.9.2",
+    "nuxt": "^1.0.0",
+    "nuxt-i18n": "^4.1.0",
+    "nuxt-sass-resources-loader": "^2.0.2",
+    "prettier": "^1.13.7",
+    "sass-loader": "^7.0.3",
+    "saucelabs": "^1.5.0",
+    "selenium-download": "^2.0.12",
+    "selenium-server": "^3.13.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.5",
+    "eslint": "^5.1.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-vue": "^4.5.0"
+  }
+}
